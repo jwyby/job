@@ -13,8 +13,8 @@ Web前端个人网站，网页个人网站模版，HTML&CSS&JS制作个人网站
 
 ### 截图预览
 
-![截图1](截图1.png)
-![截图2](截图2.png)
+![截图1](img/截图1.png)
+![截图2](img/截图2.png)
 
 #### 联系我
 - GitHub: [jwyby](https://github.com/jwyby)
